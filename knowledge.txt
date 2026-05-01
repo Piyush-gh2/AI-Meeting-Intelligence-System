@@ -1,0 +1,4 @@
+Action items should include owner and deadline.
+Meeting summaries should capture key discussion points.
+Decisions must be clearly highlighted.
+Clear communication improves productivity.
